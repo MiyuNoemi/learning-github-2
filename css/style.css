@@ -1,0 +1,21 @@
+header {
+    text-align: left;
+    margin: 20vh auto;
+    max-width: 350px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h3 {
+    font-weight: normal;
+    font-style: italic;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+p {
+    font-family: Arial, sans-serif;
+    letter-spacing: 1px;
+}
