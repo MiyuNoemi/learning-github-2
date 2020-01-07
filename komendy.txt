@@ -1,3 +1,4 @@
 autoprefixer-cli -o main.prefixed.css main.css
 
-var batch = checker.validate([ 'test.html', 'http://google.com' ]);
+cli [options] <files/urls ...> 
+-f, --formatter <formatter>  Choose the formatter to use. (stylish, json)
