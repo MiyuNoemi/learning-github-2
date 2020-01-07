@@ -1,4 +1,3 @@
 autoprefixer-cli -o main.prefixed.css main.css
 
-cli [options] <files/urls ...> 
--f, --formatter <formatter>  Choose the formatter to use. (stylish, json)
+nu-html-checker index.html
